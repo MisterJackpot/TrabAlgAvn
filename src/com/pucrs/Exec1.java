@@ -6,7 +6,7 @@ public class Exec1 {
     public static int f[] = new int[60];
 
     public static void main(String[] args) {
-        int n[] = {2, 4, 8, 16, 20, 24, 28};
+        int n[] = {2, 4, 8, 16, 20, 24, 28, 32, 36, 40};
 
         for (int i = 0; i < n.length; i++) {
             System.out.println("Result: " + pow1(2, n[i]));
