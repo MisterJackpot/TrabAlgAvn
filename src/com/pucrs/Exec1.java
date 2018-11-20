@@ -1,6 +1,6 @@
 package com.pucrs;
 
-public class Main {
+public class Exec1 {
 
     public static int count = 0;
     public static int f[] = new int[60];
